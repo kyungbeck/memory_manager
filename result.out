@@ -1,0 +1,19 @@
+Current Memory Allocation statue
+-------------------------------------------
+Available memory space : 7937
+1 256-8192
+Allocated memory space : 0
+coalescing count : 0
+memory allocation failure count : 0
+
+Current Memory Allocation statue
+-------------------------------------------
+Available memory space : 1937
+1 3256-3255
+2 6256-8192
+Allocated memory space : 6000
+1 256-3255
+2 3256-6255
+coalescing count : 1
+memory allocation failure count : 0
+
